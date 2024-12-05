@@ -1,6 +1,6 @@
-# P3-Spam-Mail-Classification-by-NLP-and-ML
+# Spam-Mail-Classification-by-NLP-and-ML
 
-<h1> This is mail heading</h1>
+<h1>Description of Project </h1>
 
 <p> Problem Statement
 
