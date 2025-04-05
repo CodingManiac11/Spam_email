@@ -49,8 +49,8 @@ def main():
     # Footer
     st.markdown("---")
     st.markdown("""
-        Developed by **Your Name**  
-        For queries, contact: [email@example.com](mailto:email@example.com)  
+        Developed by **Aditya Utsav**  
+        For queries, contact: [adityautsav123456@gmail.com](mailto:adityautsav123456@gmail.com)  
         
     """)
 
