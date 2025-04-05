@@ -34,6 +34,6 @@ Open Visual Studio Code Editor
 and type : streamlit run .\spamDetector.py in terminal
 
 
-
+Deployment link: https://spam-email-2-53de.onrender.com
 
 # Happy Learning and Coding 😊
